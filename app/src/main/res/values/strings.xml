@@ -1,3 +1,21 @@
 <resources>
-    <string name="app_name">Philidor</string>
+    <string name="app_name">Philidor 51M</string>
+    <string name="logo">♞</string>
+    <string name="accueil_titre">Philidor 51M</string>
+    <string name="accueil_sous_titre">Une IA d’échecs dans votre téléphone</string>
+    <string name="votre_couleur">Votre couleur</string>
+    <string name="blancs">Blancs</string>
+    <string name="noirs">Noirs</string>
+    <string name="hasard">Hasard</string>
+    <string name="creativite_titre">Créativité de Philidor</string>
+    <string name="creativite_initiale">0,6</string>
+    <string name="prudent">prudent</string>
+    <string name="surprenant">surprenant</string>
+    <string name="nouvelle_partie">Nouvelle partie</string>
+    <string name="historique_parties">Historique des parties</string>
+    <string name="partie_titre">Partie</string>
+    <string name="couleur_choisie">Votre couleur : %1$s</string>
+    <string name="creativite_choisie">Créativité : %1$.1f</string>
+    <string name="historique_titre">Historique</string>
+
 </resources>

@@ -1,0 +1,3 @@
+<resources>
+    <style name="Philidor.Bouton.Plein" parent="Widget.Material3.Button" />
+</resources>
