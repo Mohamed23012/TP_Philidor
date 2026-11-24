@@ -15,7 +15,16 @@
         android:paddingEnd="16dp"
         android:paddingBottom="20dp">
 
-
+        <TextView
+            android:id="@+id/textAvatar"
+            android:layout_width="52dp"
+            android:layout_height="52dp"
+            android:background="@drawable/logo_echecs"
+            android:gravity="center"
+            android:textColor="#FFFFFF"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            tools:text="V" />
 
         <LinearLayout
             android:layout_width="0dp"
@@ -64,7 +73,7 @@
             android:textColor="#1B2430"
             android:textSize="28sp"
             tools:text="♔" />
-
+    </LinearLayout>
 
     <View
         android:layout_width="match_parent"
@@ -72,5 +81,4 @@
         android:layout_marginStart="94dp"
         android:background="#E3E7EB" />
 
-</LinearLayout>
 </LinearLayout>
