@@ -15,4 +15,14 @@
     <string name="aucun_element">Aucun Partie jouée</string>
     <string name ="historique_description">12 Parties. 4 Victoires</string>
     <string name="history_empty_message">Lancez une partie depuis l accueil</string>
+    <string name="game_description">Noirs. Créativité 0,6</string>
+    <string name="vous">Vous</string>
+    <string name="annuler">Annuler</string>
+    <string name="retourner">Retourner</string>
+    <string name="partager">Partager</string>
+    <string name="abandonner">Abandonner</string>
+    <string name="supprimer_tout">Tout supprimer</string>
+    <string name="trait_blancs">Aux Blancs de jouer</string>
+    <string name="trait_noirs">Aux Noirs de jouer</string>
+    <string name="echec">Échec !</string>
 </resources>

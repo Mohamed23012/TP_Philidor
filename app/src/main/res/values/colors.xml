@@ -4,4 +4,11 @@
     <color name="white">#FFFFFFFF</color>
     <color name="green">#113C11</color>
     <color name="green_light">#96A696</color>
+    <color name="case_claire">#E9EDDC</color>
+    <color name="case_foncee">#6F8F7A</color>
+    <color name="case_selectionnee">#F2C14E</color>
+    <color name="couleur_pieces">#000000</color>
+    <color name="coup_possible">#66000000</color>
+    <color name ="dernier_coup">#FFC107</color>
+
 </resources>
